@@ -1,8 +1,6 @@
 ### 👋Hi, I'm Crystal
 
-![LinkedIn](https://www.linkedin.com/in/shuangshuang-li-642340114/?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://mail.google.com/mail/u/0?style=for-the-badge&logo=gmail&logoColor=white)
-
+[https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 <!--
 **crystalmori/crystalmori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
