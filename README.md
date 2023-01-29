@@ -1,8 +1,6 @@
 ### 👋Hi, I'm Crystal
 
-[https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
-<!--
-**crystalmori/crystalmori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})(https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 Here are some ideas to get you started:
 
