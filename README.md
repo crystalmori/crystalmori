@@ -1,6 +1,6 @@
 ### 👋Hi, I'm Crystal
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})(https://github.com/alexandresanlim/Badges4-README.md-Profile)
+![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
 
 Here are some ideas to get you started:
 
